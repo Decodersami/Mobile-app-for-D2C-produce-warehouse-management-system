@@ -12,7 +12,6 @@ This repository contains a mobile app for managing a Direct-to-Consumer (D2C) pr
 - [Usage](#usage)
 - [Project Structure](#project-structure)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
