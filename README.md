@@ -84,7 +84,7 @@ This repository contains a mobile app for managing a Direct-to-Consumer (D2C) pr
    Create a `.env` file in the `backend` directory and add the following:
 
    ```env
-   MONGO_URI=mongodb://localhost:27017/d2cwarehouse
+   MONGO_URI=mongodb://localhost:30001/d2cwarehouse
    PORT=3000
    ```
 
