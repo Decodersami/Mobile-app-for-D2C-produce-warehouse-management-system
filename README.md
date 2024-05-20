@@ -1,5 +1,3 @@
-
-```markdown
 # D2C Produce Warehouse Management System
 
 This repository contains a mobile app for managing a Direct-to-Consumer (D2C) produce warehouse, including modules for receiving, storing, managing produce, and ensuring sustainable procurement and bio-degradable packaging standards. The app also supports multiple temperature zones and uses AI/ML for shelf life prediction.
@@ -43,7 +41,7 @@ This repository contains a mobile app for managing a Direct-to-Consumer (D2C) pr
    ```bash
    git clone https://github.com/your-username/d2c-warehouse-management.git
    cd d2c-warehouse-management
-   ```
+
 
 2. **Navigate to the mobile app directory**
 
